@@ -1,0 +1,10 @@
+flask
+flask-login
+flask-sqlalchemy
+flask-migrate
+scikit-learn
+pandas
+numpy
+joblib
+python-dotenv
+werkzeug
